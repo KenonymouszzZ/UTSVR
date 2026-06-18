@@ -342,7 +342,7 @@ MonoBehaviour:
   toggleBGM: {fileID: 1664053142}
   toggleSFX: {fileID: 1036203828}
   buttonTestSFX: {fileID: 748609026}
-  clickSound: {fileID: 8300000, guid: cf5682dd1af9aee4bb2c3e06e59a31d5, type: 3}
+  clickSound: {fileID: 8300000, guid: 7850a7cf6558a4e83990608a2b168bad, type: 3}
   textBGM: {fileID: 360926436}
   textSFX: {fileID: 1329621670}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
